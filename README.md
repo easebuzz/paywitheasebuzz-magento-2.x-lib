@@ -12,7 +12,7 @@ Integration Kit for Magento 2.0.x, Magento 2.1.x and Magento 2.2.x only
 7. Click on payment methods
 8. Enable easebuzz payment gateway
 9. Enter Easebuzz Key,Salt & Environment.
-10. iFrame Enable: (Default is null, Please set required values)
-Yes -> EaseCheckout  Enable
+10. iFrame Enable: (Default is null, Please set required values) <br />
+Yes -> EaseCheckout  Enable <br />
 No -> Hosted Checkout Enable
 
